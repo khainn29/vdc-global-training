@@ -20,3 +20,5 @@ Main technical:
 4. Pass all level thì ready to develop project.
 
 WELCOM TO MY TEAM.
+
+#1. https://dzone.com/articles/how-to-create-rest-api-with-spring-boot
