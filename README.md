@@ -23,6 +23,7 @@ WELCOM TO MY TEAM.
 
 #1. Create project spring boot REST API, JPA, MySQL,... 
   https://dzone.com/articles/how-to-create-rest-api-with-spring-boot
+ 
 #2. Sử dụng validate trong spring boot phía backend. Link tham khảo:
   https://www.baeldung.com/spring-boot-bean-validation
   https://dzone.com/articles/implementing-validation-for-restful-services-with
